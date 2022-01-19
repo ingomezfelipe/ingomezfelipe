@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ingomezfelipe
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning web developing
+- 💞️ I’m looking to collaborate on software developing
+- 📫 How to reach me email me at ingomezfelipe@hotmail.com (or gmail.com)
